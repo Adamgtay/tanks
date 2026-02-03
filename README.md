@@ -1,4 +1,4 @@
 # Tanks
 
 ## Screenshot
-![Ammo Drop](images/tanks_screenshot.png)
+![Ammo Drop](tanks_gameplay_sample.mov)
